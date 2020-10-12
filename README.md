@@ -1,0 +1,3 @@
+# AndrewHeringer.com
+
+Static site.
